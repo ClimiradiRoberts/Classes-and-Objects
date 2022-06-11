@@ -4,7 +4,7 @@ Using the skeleton of the class Student, I added some attributes to the Student 
 
  Name: A string, which was initialized when creating an instance of Student
  Age: An integer, which was initialized when creating an instance of Student
- Tracks: A list of strings, which was initialized when creating an instance of Student. Feel free to pick any values as tracks.
+ Tracks: A list of strings, which was initialized when creating an instance of Student.
  Score: A float, which was initialized when creating an instance of Student.    
 
 I also created the following methods for class “Student”:
